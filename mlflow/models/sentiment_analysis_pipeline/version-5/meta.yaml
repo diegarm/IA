@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1753296943367
+current_stage: None
+description: null
+last_updated_timestamp: 1753296943367
+name: sentiment_analysis_pipeline
+run_id: 201fd1ed579043539ad46c1ffaab10ca
+run_link: null
+source: file:///content/IA/mlflow/703176144326403716/201fd1ed579043539ad46c1ffaab10ca/artifacts/sentiment_analysis
+status: READY
+status_message: null
+storage_location: file:///content/IA/mlflow/703176144326403716/201fd1ed579043539ad46c1ffaab10ca/artifacts/sentiment_analysis
+user_id: null
+version: 5

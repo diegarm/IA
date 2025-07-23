@@ -1,0 +1,15 @@
+artifact_uri: file:///content/IA/mlflow/578394864214488978/e1e7d95d12d64631ac5b51b61992459d/artifacts
+end_time: 1753296809264
+entry_point_name: ''
+experiment_id: '578394864214488978'
+lifecycle_stage: active
+run_id: e1e7d95d12d64631ac5b51b61992459d
+run_name: kindly-zebra-107
+run_uuid: e1e7d95d12d64631ac5b51b61992459d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753296804627
+status: 3
+tags: []
+user_id: root
