@@ -1,0 +1,15 @@
+artifact_uri: file:///content/IA/mlflow/578394864214488978/c896efd254c54402b8b093c86dc5ba44/artifacts
+end_time: 1753811322424
+entry_point_name: ''
+experiment_id: '578394864214488978'
+lifecycle_stage: active
+run_id: c896efd254c54402b8b093c86dc5ba44
+run_name: unequaled-goat-524
+run_uuid: c896efd254c54402b8b093c86dc5ba44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753811319281
+status: 3
+tags: []
+user_id: root

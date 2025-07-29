@@ -1,0 +1,15 @@
+artifact_uri: file:///content/IA/mlflow/613269214425265126/2a6d6fa86c294092b36eae196d3801c1/artifacts
+end_time: 1753811601156
+entry_point_name: ''
+experiment_id: '613269214425265126'
+lifecycle_stage: active
+run_id: 2a6d6fa86c294092b36eae196d3801c1
+run_name: gaudy-mole-300
+run_uuid: 2a6d6fa86c294092b36eae196d3801c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753811596605
+status: 3
+tags: []
+user_id: root
